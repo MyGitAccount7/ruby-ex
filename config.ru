@@ -240,7 +240,7 @@ pre {
 <section class='container'>
           <hgroup>
             <h1>Welcome to your Ruby application on OpenShift</h1>
-            <h1>This is my our Awesome OpenShift Container Application</h1>
+            <h1>This is Marcs Awesome OpenShift Container Application</h1>
           </hgroup>
 
 
